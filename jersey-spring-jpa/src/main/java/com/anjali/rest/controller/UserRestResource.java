@@ -36,8 +36,8 @@ public class UserRestResource {
 		userModal.setFirstName("anjali");
 		userModal.setLastName("satraboina");
 		userModal.setPassword("passwd");
-		userModal.setSex("male");
-		userModal.setUserId(101);
+		userModal.setSex("famale");
+		userModal.setUserId(000001);
 		return userModal;
 	}
 	
